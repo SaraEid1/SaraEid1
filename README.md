@@ -31,9 +31,9 @@ University of British Columbia, Vancouver, BC
 
 ## 🤝 Connect with Me
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://linkedin.com/in/saraeid1/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/saraeid1/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://github.com/SaraEid1))
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SaraEid1)
 
 I'm eager to explore opportunities where I can contribute to innovative and meaningful technology solutions. Let's connect!
 
