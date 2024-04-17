@@ -1,4 +1,6 @@
-# Hi there! 👋 I’m Sara Mohamed 👨‍💻
+<div align="center">
+<h2> Hello there! 👋 I’m Sara Mohamed 👨‍💻 </h2>
+</div>
 
 A distinguished recent graduate with a Bachelor of Applied Science in Computer Engineering from the University of British Columbia. Recognized with the Vantage One Excellence Award and consistently placed on the Dean’s Honour List, I am deeply committed to leveraging cutting-edge technologies to craft solutions that are not only impactful but also operationally efficient.
 
@@ -31,9 +33,9 @@ University of British Columbia, Vancouver, BC
 
 ## 🤝 Connect with Me
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://linkedin.com/in/saraeid1/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SaraEid1)
+
+<a href="https://linkedin.com/in/saraeid1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/SaraEid1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
 I'm eager to explore opportunities where I can contribute to innovative and meaningful technology solutions. Let's connect!
 
