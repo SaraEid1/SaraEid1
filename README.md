@@ -23,6 +23,8 @@ University of British Columbia, Vancouver, BC
 
 - **SMART Technologies (Software Test Developer Intern)**: Delivered automation improvements and bug fixes to enhance software reliability and performance.
 
+- **The University of British Columbia (Undergraduate Academic Assistant)**: Developed and optimized a WordPress-based educational portal featuring over 600 resources, which streamlined resource accessibility and improved user engagement. 
+
 ## 🌟 Key Projects
 
 - **Talent Acquisition Automation System**: Designed and implemented a transformative talent acquisition platform using React and TypeScript, significantly enhancing HR processes and candidate engagement for Tartigrade Ltd.
