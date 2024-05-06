@@ -2,17 +2,17 @@
 <h2> Hello there! 👋 I’m Sara Mohamed 👨‍💻 </h2>
 </div>
 
-A distinguished recent graduate with a Bachelor of Applied Science in Computer Engineering from the University of British Columbia. Recognized with the Vantage One Excellence Award and consistently placed on the Dean’s Honour List, I am deeply committed to leveraging cutting-edge technologies to craft solutions that are not only impactful but also operationally efficient.
+A distinguished recent graduate with a Bachelor of Applied Science in Computer Engineering from the University of British Columbia. I am deeply committed to leveraging cutting-edge technologies to develop solutions that are both impactful and operationally efficient. My robust education and hands-on experience have equipped me with a profound understanding of these technologies, enabling me to innovate and drive efficiency in every project I undertake.
 
 ## 🎓 Education
 **Bachelor of Applied Science in Computer Engineering**
 University of British Columbia, Vancouver, BC
-- **Honors**: Dean's Honour List, Vantage One Excellence Award Recipient
+- **Honors**: Vantage One Excellence Award Recipient, Dean's Honour List, Graduated with Distinction
 - **Graduation**: April 2024
 
 ## 🛠 Technical Skills
 - **Languages**: JavaScript, TypeScript, HTML, CSS, Python, Java, C++, C, PHP, SQL
-- **Frameworks/Technologies**: React, React Native, Node.js, MongoDB, Django, Azure, AWS, Docker, Android Studio, Figma
+- **Frameworks/Technologies**: React, React Native, Node.js, MongoDB, Django, Numpy, Pandas, SciKit Learn, Azure, AWS, Docker, Figma
 - **Tools**: VS Code, Git, Linux
 
 ## 💼 Professional Experience
@@ -25,17 +25,9 @@ University of British Columbia, Vancouver, BC
 
 - **The University of British Columbia (Undergraduate Academic Assistant)**: Developed and optimized a WordPress-based educational portal featuring over 600 resources, which streamlined resource accessibility and improved user engagement. 
 
-## 🌟 Key Projects
-
-- **Talent Acquisition Automation System**: Designed and implemented a transformative talent acquisition platform using React and TypeScript, significantly enhancing HR processes and candidate engagement for Tartigrade Ltd.
-
-- **EmpowerHer Mobile App**: Developed a cross-platform application that enhances campus safety, supporting UN SDGs related to health and gender equality, which was recognized among the top 100 finalists in Google's Solution Challenge.
-
-- **Dot Web App**: Co-developed a health management dashboard recognized for its innovative design in a university hackathon, facilitating better health tracking and insights.
-
 ## 🤝 Connect with Me
 
-
+<a href="https://saraeid1.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF5733.svg?&style=flat-square&logo=&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/saraeid1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/SaraEid1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
